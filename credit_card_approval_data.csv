@@ -1,0 +1,615 @@
+Gender,Marital_Status,Education,Employment,ApplicantIncome_Label,LoanAmount_Label,Credit_History,Property_Area,Decision
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,More,Present,Rural,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,More,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,More,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,More,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,More,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,More,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,More,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Female,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Self_Employed,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Not Graduate,Self_Employed,High_Income,Few,No_History,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,More,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,More,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,No_History,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,No_History,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,No_History,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,More,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,No_History,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Female,Married,Graduate,Salaried,High_Income,Few,No_History,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Female,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Not Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,No_History,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,No_History,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Rural,Approve
+Female,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Female,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,High_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Not Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Self_Employed,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,High_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,High_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,No_History,Urban,Approve
+Female,Married,Not Graduate,Self_Employed,High_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Deny
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Female,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Female,Not_Married,Graduate,Salaried,Low_Income,More,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,No_History,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Approve
+Male,Not_Married,Graduate,Self_Employed,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Not Graduate,Self_Employed,Low_Income,Few,Present,Rural,Approve
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,No_History,Semiurban,Approve
+Male,Married,Graduate,Self_Employed,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Urban,Approve
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Semiurban,Deny
+Male,Married,Not Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Female,Not_Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Rural,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Male,Married,Graduate,Salaried,Low_Income,Few,Present,Urban,Deny
+Female,Not_Married,Graduate,Self_Employed,Low_Income,Few,No_History,Semiurban,Approve
